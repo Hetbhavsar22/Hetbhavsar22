@@ -9,10 +9,10 @@
 
 ### Let's Connect:
 
-<a href="mailto:erhetbhavsar@gmail.com"><img src="g-mail.png" width="22px" alt="G-Mail Icon" hspace="10"></a>
-<a href="https://www.linkedin.com/in/het-bhavsar-0b175b218/"><img src="linkedIn.png" width="22px" alt="LinkedIn Icon" hspace="10"></a>
-<a href="https://www.instagram.com/hetbhavsar2938/"><img src="instagram.png" width="22px" alt="Instagram Icon" hspace="10"></a>
-<a href="https://www.facebook.com/het.bhavsar.1671"><img src="Facebook" width="23px" height="22px" alt="Facebook Icon" hspace="10"></a>
+<a href="mailto:erhetbhavsar@gmail.com"><img src="G-mail.svg" width="22px" alt="G-Mail Icon" hspace="10"></a>
+<a href="https://www.linkedin.com/in/het-bhavsar-0b175b218/"><img src="linkedIn.svg" width="22px" alt="LinkedIn Icon" hspace="10"></a>
+<a href="https://www.instagram.com/hetbhavsar2938/"><img src="Instagram.svg" width="22px" alt="Instagram Icon" hspace="10"></a>
+<a href="https://www.facebook.com/het.bhavsar.1671"><img src="Facebook.svg" width="23px" height="22px" alt="Facebook Icon" hspace="10"></a>
 
 <br />
 
