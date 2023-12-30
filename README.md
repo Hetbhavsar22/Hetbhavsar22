@@ -2,7 +2,7 @@
 <br>
 <hr/>
 
-<h3 align="centre">Currently pursuing BE / B.Tech in Information Technology(IT).<br>Learning React.</h3>
+<h3 align="centre">Currently pursuing BE in Information Technology(IT).</h3>
 <h4>Loading...</h4>
 <br>
 <hr/>
