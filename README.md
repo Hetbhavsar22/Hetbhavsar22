@@ -1,5 +1,3 @@
-<div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?color=5F6769&size=28&center=true&vCenter=true&width=550&lines=Hello+Everyone+👋;I'm+Het+Bhavsar;Open+Source+Enthusiast+☀;Frontend+Developer+💻" />
 
 ---
@@ -64,5 +62,3 @@
 ---
 
 ### ⭐ If you like my work, consider giving my repos a star!
-
-</div>
