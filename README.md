@@ -1,64 +1,34 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=5F6769&size=28&center=true&vCenter=true&width=550&lines=Hello+Everyone+👋;I'm+Het+Bhavsar;Open+Source+Enthusiast+☀;Frontend+Developer+💻" />
-
 ---
-
-### 🎓 Currently Pursuing **B.E. in Information Technology (IT)**
-### 🚀 Passionate about building interactive & user-friendly interfaces
-
+### 🎓 B.Tech in Information Technology (IT) — 2024
+### 🚀 Frontend Developer | React.js | Node.js | React Native (Expo)
 ---
-
 ### 🌐 Connect with Me  
-<div align="center">
-
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:erhetbhavsar@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="48" />
 </a>
-
-<a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+<a href="https://www.linkedin.com/in/het-bhavsar-0b175b218/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
-
-<a href="https://instagram.com/your-instagram-id" target="_blank">
+<a href="https://www.instagram.com/hetbhavsar2938/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
 </a>
-
-<a href="https://facebook.com/your-facebook-id" target="_blank">
+<a href="https://www.facebook.com/het.bhavsar.1671" target="_blank">
   <img src="https://skillicons.dev/icons?i=facebook" height="48" />
 </a>
-
-</div>
-
 ---
-
 ## 🧩 Tech Stack
-
-<div align="center">
-  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github" />
-
-</div>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,expo,node,tailwind,git,github" />
 ---
-
 ## 📈 GitHub Stats
-
-<div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Hetbhavsar22&show_icons=true&theme=tokyonight" height="170"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetbhavsar22&layout=compact&theme=tokyonight" height="170"/>
-
-</div>
-
 ---
-
 ## 🌱 About Me
-
 - 💡 I love exploring new technologies  
 - 🧩 Frontend + UI/UX enthusiast  
 - 👯 Looking to collaborate on open-source & web projects  
 - ⚡ Fun Fact: **I break things to learn how they work 😄**
-
 ---
-
 ### ⭐ If you like my work, consider giving my repos a star!
